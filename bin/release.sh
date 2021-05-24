@@ -62,7 +62,7 @@ if [[ $confirm == "yes" ]]; then
     git tag "v$VERSION"
     git push --tags
 
-    npm publish
+    yarn publish
 else
   echo "Skipping the publish procedure"
 fi

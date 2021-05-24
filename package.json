@@ -1,6 +1,6 @@
 {
-  "name": "intro.js",
-  "version": "3.4.0",
+  "name": "async-intro.js",
+  "version": "3.5.0",
   "description": "Lightweight, user-friendly onboarding tour library",
   "keywords": [
     "onboarding",
@@ -14,7 +14,7 @@
   "homepage": "https://introjs.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/usablica/intro.js"
+    "url": "https://github.com/ezra-obiwale/intro.js"
   },
   "main": "intro.js",
   "scripts": {
